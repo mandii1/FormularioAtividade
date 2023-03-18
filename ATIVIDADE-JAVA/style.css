@@ -1,0 +1,65 @@
+body{
+    background:  linear-gradient(rgb(230, 222, 107), orange);
+}
+.container{
+    background-color: white;
+    width: 220px;
+    height: 350px;
+    border-radius: 7%;
+    margin: auto;
+}
+
+.lista{
+    padding-left: 20px;
+}
+.bloco{
+    border: solid 1px gray;
+    border-radius: 5px;
+    height: 20px;
+}
+
+.btn{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(235, 197, 48);
+    padding: 10px 60px;
+
+}
+
+.nav{
+    text-align: center;
+}
+
+.estacao1{
+    border-radius: 100%;
+    background-color: white;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.ee{
+    color: white;
+}
+
+.ee span{
+    font-size: 10px;
+    color: black;
+}
+
+.btn2 button{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(235, 197, 48);
+    padding: 10px 20px;
+    margin-left: 15px ;
+    margin-top: 10px;
+}
+
+.p-text{
+    font-size: 10px;
+}
+
+/* nome endeereço contat */
